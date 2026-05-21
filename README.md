@@ -89,20 +89,4 @@ s3-static-website/
 
 ![Website Output](screenshots/webpage.png)
 
-# Project Screenshots
 
-## Main Terraform Configuration
-
-<img src="screenshots/main.png" width="900">
-
----
-
-## AWS S3 Bucket
-
-<img src="screenshots/s3.png" width="900">
-
----
-
-## Static Website Output
-
-<img src="screenshots/webpage.png" width="900">
