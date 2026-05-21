@@ -1,0 +1,17 @@
+# Terraform files
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+
+# Sensitive files
+terraform.tfvars
+*.pem
+*.key
+.env
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
