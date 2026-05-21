@@ -47,20 +47,4 @@ s3-static-website/
 │   └── error.html
 │
 └── screenshots/
-# Project Screenshots
 
-## Terraform Apply
-
-![Terraform Apply](screenshots/terraform-apply.png)
-
----
-
-## Website Output
-
-![Website Output](screenshots/website-output.png)
-
----
-
-## S3 Bucket
-
-![S3 Bucket](screenshots/s3-bucket.png)
