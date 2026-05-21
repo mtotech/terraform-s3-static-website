@@ -47,4 +47,44 @@ s3-static-website/
 │   └── error.html
 │
 └── screenshots/
+# Project Screenshots
 
+## Main Terraform Configuration
+
+![Main Terraform](screenshots/main.png)
+
+---
+
+## Locals Configuration
+
+![Locals Terraform](screenshots/locals.tf.png)
+
+---
+
+## Output Configuration
+
+![Output Terraform](screenshots/output.tf.png)
+
+---
+
+## Terraform Output
+
+![Terraform Output](screenshots/output.png)
+
+---
+
+## Website URL Output
+
+![Website URL](screenshots/output%20url.png)
+
+---
+
+## AWS S3 Bucket
+
+![S3 Bucket](screenshots/s3.png)
+
+---
+
+## Static Website Output
+
+![Website Output](screenshots/webpage.png)
